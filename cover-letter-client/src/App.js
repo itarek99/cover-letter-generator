@@ -109,7 +109,7 @@ function App() {
             type="submit"
             className="bg-blue-500 py-3 px-4 mt-4 uppercase text-white"
           >
-            Generate
+            Generate Now
           </button>
         </form>
       </div>
